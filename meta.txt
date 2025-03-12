@@ -1,0 +1,4 @@
+Repository URL: https://github.com/Innervycs/mb-firmware-3a2e9fcdb7894e1e8748e253146a68ab
+Firmware Hash: c1b818392f16f6ef2127a4577d6b38200ac1f1393b617f1b02a2eb2a70c955f3
+Date Generated: 2025-03-12 15:06:44
+Size in bytes: 1534160
